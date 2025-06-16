@@ -8,20 +8,18 @@
   margin: 0;
   background: linear-gradient(90deg, #00F59E 0%, #00B4DB 100%);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  letter-spacing: -1px;
-  line-height: 1.2;
   padding-bottom: 0.5rem;
+  display: inline-block;
 ">
-  Hi, I'm Usman Abdella 👋
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> Hi, I'm Usman Abdella
 </h1>
 
 <!-- Enhanced Animated Tagline -->
 <div style="margin: 0.5rem 0 1.5rem 0;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=00F59E&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+API+Specialist;Flask+%26+Node.js+Engineer;Linux+Enthusiast+%7C+Security+Focused;Turning+Ideas+Into+Scalable+Systems" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&color=00F59E&center=true&vCenter=true&width=800&lines=Passionate+Backend+Architect+%7C+API+Artisan;Flask+%26+Node.js+Specialist+%7C+Microservices;Linux+Advocate+%7C+Security-Obsessed;Open-Source+Contributor+%7C+Bash+Wizard;Building+Bulletproof+Systems+That+Scale" 
     alt="Typing Animation" 
+    style="max-width: 100%;"
   />
 </div>
 
@@ -115,33 +113,50 @@ I specialize in building robust and scalable backend systems using **Flask**, **
 + Long-term: Become a Solutions Architect
 ! Always: Share knowledge and mentor others
 ```
-
-### ⚡ Fun Facts
-- 🎮 Debug like it's a video game quest
-- 🌍 Code has no timezone - working with global teams
-- 📚 Reading tech blogs while having coffee is my morning ritual
-- 🎸 I debug with background music
-- 🏃‍♂️ Regular code refactoring keeps the codebase healthy
-
 ## 🛠️ Technical Arsenal
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+### 💻 Languages and Tools
+<div align="left">
 
-</p>
+<!-- Tech Stack Icons -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+</a>&nbsp;&nbsp;
 
-### 🏗️ Backend & Frontend Frameworks
-<p align="left">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+</a>&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+</a>&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+</a>&nbsp;&nbsp;
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
+</a>&nbsp;&nbsp;
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" />
+</a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" />
+  </a>
+
+
+</div>
+
 
 ### 🗄️ Databases & Storage
 <p align="left">
@@ -154,7 +169,7 @@ I specialize in building robust and scalable backend systems using **Flask**, **
 ### 🚀 DevOps & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
