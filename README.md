@@ -90,29 +90,40 @@ I specialize in building robust and scalable backend systems using **Flask**, **
 
 
 
-### 🚀 Currently Working On
+## 🚀 Current Focus
 
-```yaml
-🧪 Projects:
-  - ⚙️ Building scalable microservices architecture for an e-commerce platform
-  - 📡 Developing high-performance REST APIs using Flask & Node.js
-  - 🔄 Implementing real-time data processing pipelines
-  - 🧠 Optimizing database performance for large-scale applications (MySQL + MongoDB)
+<div style="
+  background: rgba(13,17,23,0.7);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border-left: 4px solid #00F59E;
+">
 
+### 🔧 Active Projects
+<p style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://img.shields.io/badge/-Microservices-6e5494?style=flat-square&logo=amazonaws&logoColor=white" height="24">
+  <span>Building scalable e-commerce backend systems</span>
+</p>
 
-### 👥 Looking to Collaborate On
-- Open-source backend projects
-- Distributed systems development
-- Performance optimization challenges
-- Cloud-native applications
+<p style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="24">
+  <span>Developing high-performance REST APIs</span>
+</p>
 
-### 🎯 Career Goals
-```diff
-+ Short-term: Master microservices architecture patterns
-+ Mid-term: Lead complex distributed system projects
-+ Long-term: Become a Solutions Architect
-! Always: Share knowledge and mentor others
-```
+<p style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://img.shields.io/badge/-RealTime-00B4DB?style=flat-square&logo=apachekafka&logoColor=white" height="24">
+  <span>Implementing data processing pipelines</span>
+</p>
+
+<p style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="24">
+  <span>Optimizing database performance</span>
+</p>
+
+</div>
 ## 🛠️ Technical Arsenal
 
 ### 💻 Languages and Tools
