@@ -69,11 +69,6 @@ I specialize in building robust and scalable backend systems using **Flask**, **
   - 📚 **Student Management Systems**
   - 🚚 **Logistics Booking Platforms (CargoConnect)**
 
-### 🛠️ Tech I Work With:
-- **Languages**: Python 🐍, JavaScript ✨, SQL
-- **Frameworks**: Flask, Express.js
-- **Databases**: MySQL, MongoDB, SQLite
-- **Tools**: Git, Docker, Linux, Postman, VSCode
 
 ### 🎯 Goals
 
@@ -163,8 +158,17 @@ I specialize in building robust and scalable backend systems using **Flask**, **
 </a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" />
-  </a>
-
+  </a>&nbsp;&nbsp;
+<!-- React with official Devicon SVG -->
+<a href="https://reactjs.org/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+       width="50" 
+       height="50" 
+       alt="React" 
+       style="transition: transform 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.1)'"
+       onmouseout="this.style.transform='scale(1)'" />
+</a>
 
 </div>
 
