@@ -58,9 +58,7 @@ I'm a software engineer passionate about crafting clean, efficient, and maintain
 
 <div align="center">
 
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman1121&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman1121&layout=compact&hide_border=true&theme=default)
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman1121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman1121&layout=compact&hide_border=true&theme=tokyonight)
 
 </div>
 
