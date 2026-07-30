@@ -70,10 +70,4 @@ I enjoy working across the full stack — from database design and backend archi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
-<div align="center">
-
-### "First, solve the problem. Then, write the code."
-
-</div>
 ```
