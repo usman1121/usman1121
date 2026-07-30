@@ -70,17 +70,6 @@ I enjoy working across the full stack — from database design and backend archi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usman1121&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 <div align="center">
 
