@@ -64,10 +64,10 @@ I enjoy working across the full stack — from database design and backend archi
 </p>
 
 ## DevOps & Tools
-
+[![committers.top badge](https://user-badge.committers.top/ethiopia/usman1121.svg)](https://user-badge.committers.top/ethiopia/usman1121)
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-[![committers.top badge](https://user-badge.committers.top/ethiopia/usman1121.svg)](https://user-badge.committers.top/ethiopia/usman1121)
+
 ```
