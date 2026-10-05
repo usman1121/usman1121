@@ -11,7 +11,7 @@ Building scalable systems from the database layer to the UI.
     <img src="https://img.shields.io/badge/Email-usmanabdella1121%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/usman1121">
-    <img src="https://img.shields.io/github/followers/usman1121?style=for-the-badge&logo=github&label=GitHub&color=181717" />
+    <img src="https://img.shields.io/badge/GitHub-usman1121-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -30,6 +30,16 @@ I enjoy working across the full stack — from database design and backend archi
 * 🐘 Focused on clean APIs and well-structured databases
 * 🌱 Always learning new technologies and system design concepts
 * 📫 Reach me at **[usmanabdella1121@gmail.com](mailto:usmanabdella1121@gmail.com)**
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=usman1121&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+
+</div>
 
 ---
 
