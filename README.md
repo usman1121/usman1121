@@ -33,16 +33,6 @@ I enjoy working across the full stack — from database design and backend archi
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=usman1121&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-
-</div>
-
----
-
 # Tech Stack
 
 ## Languages
