@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Usman Abdella 👋
@@ -10,6 +9,9 @@ Building scalable systems from the database layer to the UI.
 <p>
   <a href="mailto:usmanabdella1121@gmail.com">
     <img src="https://img.shields.io/badge/Email-usmanabdella1121%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/usman1121">
+    <img src="https://img.shields.io/github/followers/usman1121?style=for-the-badge&logo=github&label=GitHub&color=181717" />
   </a>
 </p>
 
@@ -23,22 +25,14 @@ I'm a software engineer passionate about building clean, scalable, and maintaina
 
 I enjoy working across the full stack — from database design and backend architecture to modern frontend development.
 
-- 🔭 Currently building applications with **Next.js** and **NestJS**
-- 🛠️ Love low-level programming with **C**
-- 🐘 Focused on clean APIs and well-structured databases
-- 🌱 Always learning new technologies and system design concepts
-- 📫 Reach me at **usmanabdella1121@gmail.com**
+* 🔭 Currently building applications with **Next.js** and **NestJS**
+* 🛠️ Love low-level programming with **C**
+* 🐘 Focused on clean APIs and well-structured databases
+* 🌱 Always learning new technologies and system design concepts
+* 📫 Reach me at **[usmanabdella1121@gmail.com](mailto:usmanabdella1121@gmail.com)**
 
 ---
 
-<p>
-  <a href="mailto:usmanabdella1121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-usmanabdella1121%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/usman1121">
-    <img src="https://img.shields.io/github/followers/usman1121?style=for-the-badge&logo=github&label=GitHub&color=181717" />
-  </a>
-</p>
 # Tech Stack
 
 ## Languages
@@ -72,8 +66,8 @@ I enjoy working across the full stack — from database design and backend archi
 </p>
 
 ## DevOps & Tools
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-```
