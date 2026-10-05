@@ -31,6 +31,14 @@ I enjoy working across the full stack — from database design and backend archi
 
 ---
 
+<p>
+  <a href="mailto:usmanabdella1121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-usmanabdella1121%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/usman1121">
+    <img src="https://img.shields.io/github/followers/usman1121?style=for-the-badge&logo=github&label=GitHub&color=181717" />
+  </a>
+</p>
 # Tech Stack
 
 ## Languages
